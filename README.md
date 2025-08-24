@@ -34,7 +34,7 @@ Bot also works on [pixelplanet.fun](https://pixelplanet.fun) and [pixmap.fun](ht
 
 **Notes**  
   * Interface has several translations. In addition to English, the languages include Spanish, Russian, Arabic and Azerbaijani.
-  * There is a tab for screenshots of the game canvas with custom coordinates. No size restrictions, in theory. (for wplace enable debug in "other" tab and use last coord pair to fill fields)
+  * There is a tab for screenshots of the game canvas with custom coordinates. No size restrictions, in theory. (for wplace enable debug in "other" tab to open coordinates window and use last coord pair to fill fields)
   * Another tab for saving interesting points on the canvas. (didnt adapted for wplace yet)
   * And optional custom theme for some canvases by me. (didnt adapted for wplace yet)
 
