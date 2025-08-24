@@ -15,7 +15,7 @@ Bot also works on [pixelplanet.fun](https://pixelplanet.fun) and [pixmap.fun](ht
  * Choose image.  
  * The colors of the image will be automatically converted if you don't care about it, but it REALLY better to use some converter or quantizer.  
  * Press key "N" to set the start coordinates.  
- * Press key "B" to start/stop or press button in bot interface.  
+ * Press key "B" to start/stop or press button in bot interface. (can be stopped only when "works" status)  
  * If a captcha appears, the bot will notify you with notification and sound.  
  * After solving captcha run bot to continue.  
 
