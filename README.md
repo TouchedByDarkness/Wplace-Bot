@@ -4,6 +4,9 @@ Bot also works on [pixelplanet.fun](https://pixelplanet.fun) and [pixmap.fun](ht
 > [!WARNING]  
 > The bot was originally created for other pixel games. Adaptation for wplace is still raw and may work unstable!
 
+> [!CAUTION]
+> Bots are prohibited by the site rules, so keep in mind that you can be banned for using it!
+
 **Installation**  
 1. [Download Tampermonkey](https://www.tampermonkey.net)
 2. [Install bot](https://touchedbydarkness.github.io/stuff/ppf_bot_2/initer.user.js)
